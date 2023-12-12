@@ -1,5 +1,5 @@
 # HealthCareSystem ⚕️
-- A healthcare system, that keeps tracks of large data of patients informations allow the patients to make appointment with the system.
+- A healthcare system that keeps track of large data of patient information allows the patients to make appointments with the system. .
 - You can also keep track of the patients medical history
 - Build with C# 
 
